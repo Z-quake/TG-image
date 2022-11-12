@@ -574,7 +574,7 @@
                 staticClass: "main"
             }, [e("div", {
                 staticClass: "title"
-            }, [this._v("TG图床")]), this._v(" "), e("Upload")], 1), this._v(" "), e("Footer")], 1)
+            }, [this._v("Goifly图床")]), this._v(" "), e("Upload")], 1), this._v(" "), e("Footer")], 1)
         }
         ), [], !1, null, "5e6831cc", null));
         e.default = x.exports
